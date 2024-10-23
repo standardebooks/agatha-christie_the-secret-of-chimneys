@@ -29,3 +29,15 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+#chapter-5 blockquote{
+	font-variant: small-caps;
+}
+
+#chapter-22 blockquote{
+	font-style: italic;
+}
+
+#chapter-22 blockquote b{
+	font-style: normal;
+}
