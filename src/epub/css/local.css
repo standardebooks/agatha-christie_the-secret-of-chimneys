@@ -35,6 +35,10 @@ section[epub|type~="dedication"] > *{
 	text-align: center;
 }
 
+#chapter-8 blockquote{
+	font-variant: all-small-caps;
+}
+
 #chapter-22 blockquote b{
 	font-style: normal;
 }
