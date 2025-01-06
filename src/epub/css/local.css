@@ -42,3 +42,7 @@ section[epub|type~="dedication"] > *{
 #chapter-22 blockquote b{
 	font-style: normal;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
